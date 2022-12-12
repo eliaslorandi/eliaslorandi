@@ -12,5 +12,5 @@
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="40" link rel="stylesheet" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" height="40" width="40" link rel="stylesheet" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="40" width="40" link rel="stylesheet" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)" />
 </div>
