@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Elias Lorandi e seja bem vindo ao meu GitHub!
 
 - 🎓 Primeiro semestre em Análise e Desenvolvimento de Sistemas;
-- 🌱 Estudando Java;
+- 🌱 Estudando PHP;
 ##
 
 <div align="center">
