@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Elias Lorandi e seja bem vindo ao meu GitHub!
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas;
-- 🌱 Estudando PHP e Laravel;
+- 🌱 Estudando PHP, Yii2 e Laravel;
 ##
 
 <div align="center">
