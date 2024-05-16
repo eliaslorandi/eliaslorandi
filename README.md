@@ -1,7 +1,8 @@
 ## Opa! Eu sou o Elias Lorandi e seja bem vindo ao meu GitHub!
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas;
-- 🌱 PHP, Yii2, Laravel, MySql, Java, Python, Html, Css e Docker;
+- :books: Estudante de Análise e Desenvolvimento de Sistemas;
+- :seedling: PHP, Yii2, Laravel, MySql, Java, Python, Html, Css e Docker;
+- :page_facing_up: Meu portfólio:  https://eliaslorandi.github.io/Portfolio-Online/
 ##
 
 <div align="center">
