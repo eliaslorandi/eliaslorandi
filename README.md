@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Elias Lorandi e seja bem vindo ao meu GitHub!
 
 - :books: Estudante de Análise e Desenvolvimento de Sistemas;
-- :seedling: PHP, Laravel, Yii2, Javascript, React, MySQL, Java, Python, Html, Css e Docker;
+- :seedling: PHP, Laravel, Javascript, React, MySQL, Java, Python, Tailwind, Bootstrap, Html, Css e Docker;
 - :page_facing_up: Meu portfólio:  https://eliaslorandi.github.io/Portfolio-Online/
 - :page_facing_up: ToDo Project:  https://todoproject.com.br
 ##
